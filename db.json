@@ -1,0 +1,164 @@
+{
+    "tareas": [
+        {
+            "id": 1,
+            "tarea": "Tarea 1",
+            "titulo": "Desarrollar módulo de autenticación",
+            "descripcion": "Crear un sistema de autenticación seguro para el nuevo portal de clientes.",
+            "tiempo": "6 semanas",
+            "responsable": "Desarrollador Senior",
+            "estado": "Por hacer",
+            "foto": "https://img.freepik.com/vector-gratis/empresario-sosteniendo-lapiz-gran-lista-verificacion-completa-marcas-graduacion_1150-35019.jpg?w=996&t=st=1698281711~exp=1698282311~hmac=61f7dd04dc88d98ff0416f5057daf96679d03d3174cbbf3e251921bcf3fe6f25"
+        },
+        {
+            "id": 2,
+            "tarea": "Tarea 2",
+            "titulo": "Optimizar la base de datos",
+            "descripcion": "Realizar ajustes y optimizaciones en la base de datos para mejorar la eficiencia del sistema.",
+            "tiempo": "4 semanas",
+            "responsable": "DBA",
+            "estado": "Por hacer",
+            "foto": "https://img.freepik.com/vector-gratis/empresario-sosteniendo-lapiz-gran-lista-verificacion-completa-marcas-graduacion_1150-35019.jpg?w=996&t=st=1698281711~exp=1698282311~hmac=61f7dd04dc88d98ff0416f5057daf96679d03d3174cbbf3e251921bcf3fe6f25"
+        },
+        {
+            "id": 3,
+            "tarea": "Tarea 3",
+            "titulo": "Desarrollar interfaz de usuario",
+            "descripcion": "Diseñar y programar la interfaz de usuario para la nueva aplicación móvil.",
+            "tiempo": "8 semanas",
+            "responsable": "Diseñador UX/UI",
+            "estado": "Por hacer",
+            "foto": "https://img.freepik.com/vector-gratis/empresario-sosteniendo-lapiz-gran-lista-verificacion-completa-marcas-graduacion_1150-35019.jpg?w=996&t=st=1698281711~exp=1698282311~hmac=61f7dd04dc88d98ff0416f5057daf96679d03d3174cbbf3e251921bcf3fe6f25"
+        },
+        {
+            "id": 4,
+            "tarea": "Tarea 4",
+            "titulo": "Configurar entorno de desarrollo",
+            "descripcion": "Preparar el entorno de desarrollo para el nuevo proyecto.",
+            "tiempo": "2 semanas",
+            "responsable": "Desarrollador Junior",
+            "estado": "Por hacer",
+            "foto": "https://img.freepik.com/vector-gratis/empresario-sosteniendo-lapiz-gran-lista-verificacion-completa-marcas-graduacion_1150-35019.jpg?w=996&t=st=1698281711~exp=1698282311~hmac=61f7dd04dc88d98ff0416f5057daf96679d03d3174cbbf3e251921bcf3fe6f25"
+        },
+        {
+            "id": 5,
+            "tarea": "Tarea 5",
+            "titulo": "Desarrollar API REST",
+            "descripcion": "Crear una API REST para la comunicación entre diferentes módulos del sistema.",
+            "tiempo": "7 semanas",
+            "responsable": "Desarrollador Senior",
+            "estado": "En producción",
+            "foto": "https://img.freepik.com/vector-gratis/ilustracion-industria-4-0-brazo-robotico-revolucion-industrial-inteligente-proceso-fabrica_1150-41582.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 6,
+            "tarea": "Tarea 6",
+            "titulo": "Diseñar logo corporativo",
+            "descripcion": "Crear un nuevo logo que represente la identidad de la empresa.",
+            "tiempo": "5 semanas",
+            "responsable": "Diseñador Gráfico",
+            "estado": "En producción",
+            "foto": "https://img.freepik.com/vector-gratis/ilustracion-industria-4-0-brazo-robotico-revolucion-industrial-inteligente-proceso-fabrica_1150-41582.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 7,
+            "tarea": "Tarea 7",
+            "titulo": "Realizar pruebas de rendimiento",
+            "descripcion": "Ejecutar pruebas de rendimiento para asegurar el correcto funcionamiento del sistema bajo carga.",
+            "tiempo": "9 semanas",
+            "responsable": "Ingeniero de Pruebas",
+            "estado": "En producción",
+            "foto": "https://img.freepik.com/vector-gratis/ilustracion-industria-4-0-brazo-robotico-revolucion-industrial-inteligente-proceso-fabrica_1150-41582.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 8,
+            "tarea": "Tarea 8",
+            "titulo": "Configurar servidores",
+            "descripcion": "Configurar los servidores para despliegue del sistema en producción.",
+            "tiempo": "6 semanas",
+            "responsable": "Administrador de Sistemas",
+            "estado": "En producción",
+            "foto": "https://img.freepik.com/vector-gratis/ilustracion-industria-4-0-brazo-robotico-revolucion-industrial-inteligente-proceso-fabrica_1150-41582.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 9,
+            "tarea": "Tarea 9",
+            "titulo": "Realizar pruebas de usabilidad",
+            "descripcion": "Conducir pruebas de usabilidad con usuarios reales para evaluar la experiencia de usuario.",
+            "tiempo": "7 semanas",
+            "responsable": "Diseñador UX/UI",
+            "estado": "Por testear",
+            "foto": "https://img.freepik.com/vector-gratis/medidor-progreso-pobre-bueno_78370-1269.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 10,
+            "tarea": "Tarea 10",
+            "titulo": "Integrar sistema de pagos",
+            "descripcion": "Integrar un sistema de pagos seguro para transacciones en la plataforma.",
+            "tiempo": "8 semanas",
+            "responsable": "Desarrollador Senior",
+            "estado": "Por testear",
+            "foto": "https://img.freepik.com/vector-gratis/medidor-progreso-pobre-bueno_78370-1269.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 11,
+            "tarea": "Tarea 11",
+            "titulo": "Configurar entorno de pruebas",
+            "descripcion": "Preparar el entorno de pruebas para validar el funcionamiento del sistema.",
+            "tiempo": "3 semanas",
+            "responsable": "Desarrollador Junior",
+            "estado": "Por testear",
+            "foto": "https://img.freepik.com/vector-gratis/medidor-progreso-pobre-bueno_78370-1269.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 12,
+            "tarea": "Tarea 12",
+            "titulo": "Realizar pruebas de seguridad",
+            "descripcion": "Ejecutar pruebas de seguridad para identificar posibles vulnerabilidades en el sistema.",
+            "tiempo": "10 semanas",
+            "responsable": "Especialista en Seguridad",
+            "estado": "Por testear",
+            "foto": "https://img.freepik.com/vector-gratis/medidor-progreso-pobre-bueno_78370-1269.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=sph"
+        },
+        {
+            "id": 13,
+            "tarea": "Tarea 13",
+            "titulo": "Desplegar en entorno de producción",
+            "descripcion": "Realizar el despliegue del sistema en el entorno de producción.",
+            "tiempo": "5 semanas",
+            "responsable": "Administrador de Sistemas",
+            "estado": "Completada",
+            "foto": "https://img.freepik.com/vector-gratis/gente-diminuta-pie-junto-gran-marca-verificacion-equipo-personajes-masculinos-femeninos-que-terminan-trabajo-lista-tareas-pendientes-o-buen-trabajo-firman-ilustracion-vectorial-plana-trabajo-hecho-lista-verificacion-concepto-gestion-tiempo_74855-21019.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=ais"
+        },
+        {
+            "id": 14,
+            "tarea": "Tarea 14",
+            "titulo": "Realizar capacitación a usuarios",
+            "descripcion": "Brindar una capacitación a los usuarios finales sobre el uso del sistema.",
+            "tiempo": "4 semanas",
+            "responsable": "Especialista en Capacitación",
+            "estado": "Completada",
+            "foto": "https://img.freepik.com/vector-gratis/gente-diminuta-pie-junto-gran-marca-verificacion-equipo-personajes-masculinos-femeninos-que-terminan-trabajo-lista-tareas-pendientes-o-buen-trabajo-firman-ilustracion-vectorial-plana-trabajo-hecho-lista-verificacion-concepto-gestion-tiempo_74855-21019.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=ais"
+        },
+        {
+            "id": 15,
+            "tarea": "Tarea 15",
+            "titulo": "Realizar auditoría de código",
+            "descripcion": "Revisar el código del sistema para asegurar su calidad y cumplimiento de estándares.",
+            "tiempo": "6 semanas",
+            "responsable": "Arquitecto de Software",
+            "estado": "Completada",
+            "foto": "https://img.freepik.com/vector-gratis/gente-diminuta-pie-junto-gran-marca-verificacion-equipo-personajes-masculinos-femeninos-que-terminan-trabajo-lista-tareas-pendientes-o-buen-trabajo-firman-ilustracion-vectorial-plana-trabajo-hecho-lista-verificacion-concepto-gestion-tiempo_74855-21019.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=ais"
+        },
+        {
+            "id": 16,
+            "tarea": "Tarea 16",
+            "titulo": "Realizar lanzamiento oficial",
+            "descripcion": "Anunciar oficialmente el lanzamiento del nuevo producto al público.",
+            "tiempo": "8 semanas",
+            "responsable": "CEO",
+            "estado": "Completada",
+            "foto": "https://img.freepik.com/vector-gratis/gente-diminuta-pie-junto-gran-marca-verificacion-equipo-personajes-masculinos-femeninos-que-terminan-trabajo-lista-tareas-pendientes-o-buen-trabajo-firman-ilustracion-vectorial-plana-trabajo-hecho-lista-verificacion-concepto-gestion-tiempo_74855-21019.jpg?size=626&ext=jpg&ga=GA1.1.1749773671.1698037960&semt=ais"
+        }
+    ]    
+}
